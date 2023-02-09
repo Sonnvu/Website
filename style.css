@@ -946,7 +946,7 @@ p{
         height: 400px;
         margin: 0;
         width: 100%;
-        border-radius: 0;
+        border-radius: 10;
     }
     #projects .all-projects .project-info {
         height: 100%;
